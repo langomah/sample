@@ -7,4 +7,6 @@ int main()
   printf("new branch is 111");
   //return 0;
   return 0;
+  printf("new branch is 111");
+  printf("new branch is 111");
 }
